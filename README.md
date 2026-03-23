@@ -52,7 +52,7 @@
 
 ---
 ## 🔗 Coding Profiles
-- 💻 LeetCode: https://leetcode.com/anujkashyap84
+- 💻 LeetCode: https://leetcode.com/anujkashyap2600
 
 ---
 
