@@ -42,7 +42,7 @@
 ---
 
 ## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anujkashyap84 &show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anujkashyap&show_icons=true&theme=tokyonight)
 
 ---
 
