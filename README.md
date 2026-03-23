@@ -48,7 +48,7 @@
 
 ## 📫 Connect with Me
 - 📧 Email: anujkasaudhan669@gmail.com  
-- 💼 LinkedIn: (Add your link here)  
+- 💼 LinkedIn: https://www.linkedin.com/in/anujkashyap84
 
 ---
 
