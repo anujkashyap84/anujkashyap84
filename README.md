@@ -35,9 +35,11 @@
 ---
 
 ## 📌 Projects
-- 🎬 Netflix Clone (HTML, CSS)  
-- 📰 Fake News Detection System (Machine Learning)  
-- 🧾 Student Registration & Management System (Python + MySQL)  
+
+- 🎬 Netflix Clone
+- 📰 Fake News Detection System
+- 🧾 Student Management System  
+- 🎧 Spotify Clone (Music Beats)
 
 ---
 
