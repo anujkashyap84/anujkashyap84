@@ -51,5 +51,9 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/anujkashyap84
 
 ---
+## 🔗 Coding Profiles
+- 💻 LeetCode: https://leetcode.com/anujkashyap84
+
+---
 
 ⭐ Keep learning, keep building, keep growing!
