@@ -30,7 +30,8 @@
 
 ### 🛠️ Tools & Technologies
 - Git, GitHub, VS Code  
-- MySQL Workbench  
+- MySQL Workbench
+- Postman (API testing)
 
 ---
 
