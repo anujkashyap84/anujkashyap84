@@ -20,15 +20,16 @@
 - C, C++, Python, JavaScript  
 
 ### 🌐 Web Development
-- HTML, CSS  
+- HTML, CSS , Tailwind CSS
 
 ### ⚙️ Frameworks & Libraries
-- Django, Flask, Node.js  
+- Django, Flask, Node.js, Express.js
 - NumPy, Pandas, Matplotlib, Seaborn  
 - Scikit-learn, NLTK  
 
 ### 🗄️ Databases
-- MySQL  
+- MySQL
+- MongoDb
 
 ### 🛠️ Tools & Technologies
 - Git, GitHub, VS Code  
