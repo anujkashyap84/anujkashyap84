@@ -20,10 +20,10 @@
 - C, C++, Python, JavaScript  
 
 ### 🌐 Web Development
-- HTML, CSS , Tailwind CSS
+- HTML, CSS , Tailwind CSS , React , Next.js
 
 ### ⚙️ Frameworks & Libraries
-- Django, Flask, Node.js, Express.js
+- Node.js, Express.js 
 - NumPy, Pandas, Matplotlib, Seaborn  
 - Scikit-learn, NLTK  
 
